@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 598e40f6cd71c934bb839d43f32bce12
+  productGUID: 9e83ad569075c21458d52fb0e5604b0d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Structure_Unity
+  productName: Structure
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -844,14 +844,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Structure_Unity
+  metroPackageName: Structure
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Structure_Unity
+  metroApplicationDescription: Structure
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -923,10 +923,10 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 0f37107a-5980-413f-bd50-cd374399a5da
+  cloudProjectId: 396ee06d-1bb4-44bb-8e3a-3ffde37c2ba8
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Structure_Unity
+  projectName: Structure
   organizationId: minsub4400
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
